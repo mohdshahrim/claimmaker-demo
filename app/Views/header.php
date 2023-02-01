@@ -23,7 +23,7 @@
             <p class="w3-small w3-center w3-text-light-gray">by Mohamad Shahrim</p>
         </div>
         <div class="w3-bar-block">
-            <a href="/" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Source Code</a>
+            <a href="https://github.com/mohdshahrim/claimmaker-demo" onclick="w3_close()" class="w3-bar-item w3-button w3-hover-white">Source Code</a>
             <a onclick="aboutModal()" class="w3-bar-item w3-button w3-hover-white">About</a>
         </div>
     </nav>
