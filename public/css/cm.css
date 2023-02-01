@@ -1,0 +1,29 @@
+.cm-claim-item {
+    padding-left: 8px !important;
+}
+
+.cm-totalvalue-cell {
+    border-right: 1px solid #ddd !important;
+}
+
+.cm-final-cell {
+    border-right: 1px solid transparent !important;
+    border-bottom: 1px solid transparent !important;
+}
+
+.cm-bottom-cell {
+    border-left: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+}
+
+.cm-action-button {
+    color: #1f4d78;
+}
+
+.cm-delete-button {
+    color: red;
+}
+
+.cm-font {
+    font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+}

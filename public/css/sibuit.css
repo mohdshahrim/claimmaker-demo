@@ -1,0 +1,46 @@
+.edidik-sidebar {
+    background: linear-gradient(to bottom, #1f4d78, #1862a7) !important;
+    color: #fff !important;
+}
+
+.edidik-sidebar-setting {
+    background: darkslategray !important;
+    color: #fff !important;
+}
+
+.edidik-gradient-blue {
+    background: #1862a7 !important;
+    color: #fff !important;
+}
+
+.edidik-gradient-error {
+    background: linear-gradient(135deg,#320f0f 0,#ba4343 100%);
+    color: #fff;
+}
+
+.edidik-gradient-ok {
+    background: linear-gradient(135deg,#0f1932 0,#45acbf 100%);
+    color: #fff;
+}
+
+.edidik-form {
+    background-color: white;
+}
+
+.edidik-input {
+    background-color: #fafafa;
+}
+
+/* summary group to be used on fee summary notes */
+/* /edidik/fee/records */
+.summary-p {
+    margin-bottom: 0px;
+}
+.summary-h3 {
+    margin-top: 0px;
+}
+
+/* since we're not using href on a, we want to retain cursor effect */
+.cursor-pointer {
+    cursor: pointer;
+}
